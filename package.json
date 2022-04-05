@@ -16,5 +16,8 @@
     },
     "scripts": {
         "wdio": "wdio run wdio.conf.js"
+    },
+    "dependencies": {
+        "allure-commandline": "^2.17.2"
     }
 }
